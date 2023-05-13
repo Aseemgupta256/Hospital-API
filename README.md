@@ -35,7 +35,7 @@ Start the server
   
 ## Documentation
 
-Root Hosted Link - (https://manjeetk1248.github.io/hospital-api/)
+Root Hosted Link - (http://aseemdev.me/Hospital-API/)
 Routes :
 
     a. /doctors/register - Registers a new Doctor.
