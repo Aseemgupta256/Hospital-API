@@ -11,7 +11,7 @@ An API created using NodeJS for the doctors of a hospital to cater to the need o
 Clone the project
 
 ```bash
-  git clone https://github.com/Manjeetk1248/hospital-api
+  git clone https://github.com/Aseemgupta256/Hospital-API
 ```
 
 Go to the project directory
@@ -63,6 +63,6 @@ Folder Structure
     e. config - Contains all the config files.
 ## Authors
 
-- (https://github.com/Manjeetk1248/Hospital-api)
+- https://github.com/Aseemgupta256/Hospital-API
 
   
