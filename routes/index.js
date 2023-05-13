@@ -3,7 +3,7 @@ const router = express.Router();
 
 router.get('/', function(req, res) {
     return res.status(200).json( {
-        data:"Manjeet",
+        data:"Aseem",
         message: 'Please request the correct routes! Check "https://github.com/Manjeetk1248/hospital-api/README.md" for documentation.'
     }
 )});
